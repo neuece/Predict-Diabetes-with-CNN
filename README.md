@@ -1,5 +1,6 @@
 # Claim_Based_CNN
 Use open source CMS medical claim to build a CNN based deep model to predict diabetes onset <br />
+PyTorch is used for this project. <br />
 Only a part of codes are presented becaused it's a unpublished work yet. <br />
 Codes are in development format and have not optimized. Comments are removed on purpose for the same reason. <br />
 <br />
