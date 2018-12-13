@@ -5,4 +5,4 @@ Codes are in development format and have not optimized. Comments are removed on 
 <br />
 *Word2Vec_Claim*: customized word2vec model trained with medical claims.<br />
 <br />
-*CNN_Model*: employed a CNN to predict a binary events using medical claims with tricks playing different setting on stride, dilation and network structure.
+*CNN_Model*: employed CNN model to predict a binary outcome, diabetes onset for the next 12 month in this example, using medical claims with different settings on stride, dilation and network structure.
